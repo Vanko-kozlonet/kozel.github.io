@@ -5,3 +5,15 @@
 
 
 ## Скачать последний релиз тут: https://github.com/Vanko-kozlonet/kozel.github.io/releases/latest
+
+
+
+
+
+![kozlina](https://github.com/user-attachments/assets/f4e97f32-0886-4509-b54c-bdb815c6d7b3)
+
+
+
+
+
+
