@@ -1,6 +1,7 @@
 # Сайт браузера "Козёл"
 
-#### ![kozlina](https://github.com/user-attachments/assets/f4e97f32-0886-4509-b54c-bdb815c6d7b3)
+![kozlina](https://github.com/user-attachments/assets/1285d78b-1fa5-413a-9a08-916522d69bdb)
+
 
 
 Давно пожарено на Github нашего шедеверобраузера "Козёл" со своим "Козлонетом"
